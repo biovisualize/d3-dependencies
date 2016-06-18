@@ -5,8 +5,6 @@ var acorn = require('acorn');
 var fs = require('fs');
 var credentials = require('./credentials.json');
 
-var githubUser = 'biovisualize';
-var githubPassword = 'autruchongris1';
 var githubCredentials = btoa(credentials.githubUser + ':' + credentials.githubPassword);
 
 
