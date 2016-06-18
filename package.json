@@ -1,0 +1,13 @@
+{
+  "name": "D3-module-finder",
+  "version": "0.1.0",
+  "description": "A script to find D3v4 modules and their dependencies",
+  "main": "./index.js",
+  "dependencies": {
+    "acorn": "^3.2.0",
+    "async": "^2.0.0-rc.6",
+    "btoa": "^1.1.2",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {}
+}
